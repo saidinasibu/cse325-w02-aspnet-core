@@ -252,3 +252,4 @@ D:\COURS\BYU BATHWAY\MvcMovie\cse325-w02-aspnet-core\MvcMovie\bin\Debug\net8.0\r
 D:\COURS\BYU BATHWAY\MvcMovie\cse325-w02-aspnet-core\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\COURS\BYU BATHWAY\MvcMovie\cse325-w02-aspnet-core\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\COURS\BYU BATHWAY\MvcMovie\cse325-w02-aspnet-core\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\COURS\BYU BATHWAY\MvcMovie\cse325-w02-aspnet-core\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
